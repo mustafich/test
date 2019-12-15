@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48c0c8ab-b793-4a92-a69f-31d72ba2c2fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UvklkRZm984H07Tes4tGClVdDR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48c0c8ab-b793-4a92-a69f-31d72ba2c2fb" name="Default Changelist" comment="" />
+      <created>1576244610422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576244610422</updated>
+      <workItem from="1576244632720" duration="16034000" />
+      <workItem from="1576324394734" duration="21703000" />
+      <workItem from="1576360926366" duration="785000" />
+      <workItem from="1576367595531" duration="2498000" />
+      <workItem from="1576409388356" duration="3221000" />
+      <workItem from="1576423650603" duration="18867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="245" key="EditFileWatcherDialog" timestamp="1576246479578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="245" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576246479578" />
+    <state x="690" y="219" key="FileChooserDialogImpl" timestamp="1576413330618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576413330618" />
+    <state x="532" y="231" key="run.anything.popup" timestamp="1576434720516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="231" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576434720516" />
+  </component>
+</project>

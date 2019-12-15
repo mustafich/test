@@ -1,0 +1,41 @@
+.WeatherOneDays {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center; }
+  .WeatherOneDays-block {
+    padding: 50px;
+    border-left: 1px solid #5c7480;
+    border-right: 1px solid #5c7480;
+    border-bottom: 1px solid #5c7480; }
+    .WeatherOneDays-block input {
+      margin-right: 30px; }
+    .WeatherOneDays-block button {
+      width: 200px;
+      border: 2px solid #5c7480;
+      padding: 10px;
+      border-radius: 20px; }
+    .WeatherOneDays-block :hover {
+      box-shadow: 0 14px 28px rgba(0, 0, 0, 0.09), 0 10px 10px rgba(0, 0, 0, 0.09); }
+    .WeatherOneDays-block_view__box___flex {
+      margin-right: 5px;
+      display: flex;
+      padding: 5px; }
+      .WeatherOneDays-block_view__box___flex p {
+        font-size: 22px;
+        margin-right: 5px; }
+
+.item-enter {
+  opacity: 0; }
+
+.item-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in; }
+
+.item-exit {
+  opacity: 1; }
+
+.item-exit-active {
+  opacity: 0; }
+
+/*# sourceMappingURL=index.css.map */
